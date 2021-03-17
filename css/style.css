@@ -1,0 +1,90 @@
+:root {
+  --text-font: "Open Sans", sans-serif;
+  --title-font: "Raleway", sans-serif;
+  --accent-color: #ff6c00;
+}
+
+body {
+  font-family: "Open Oans", sans-serif;
+  color: #555555;
+}
+/*==============NAVIGATION==================*/
+.navigation-list-link {
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.1em;
+  /*color: #FF6C00;*/
+}
+.navigation-list-link:hover,
+.navigation-list-link:focus {
+  color: var(--accent-color);
+}
+.tel-link {
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.1em;
+}
+.tel-link:hover,
+.tel-link:focus {
+  color: var(--accent-color);
+}
+/*============END NAVIGATION====================*/
+
+/*================ HERO================*/
+.social-link {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 11px;
+  line-height: 1.364px;
+  /* identical to box height */
+
+  letter-spacing: 0.2em;
+}
+
+.social-link:focus,
+.social-link:hover {
+  color: var(--accent-color);
+}
+
+.main-title {
+  font-family: Raleway;
+  font-style: 400;
+  font-weight: bold;
+  font-size: 72px;
+  line-height: 85px;
+  /* identical to box height */
+  letter-spacing: 0.05em;
+  color: #6b2626;
+}
+/*=================END HERO===============*/
+
+/*===============COMPANENTS=================*/
+.sub-title {
+  font-style: 400;
+  font-weight: 600;
+  font-size: 11px;
+  line-height: 0.833;
+  /* identical to box height */
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: rgba(157, 164, 189, 0.6);
+}
+.sub-title-dark-theme {
+  color: #303030;
+}
+.modal-btn {
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+.modal-btn:hover,
+.modal-btn:focus {
+  background-color: var(--accent-color);
+  color: #ffffff;
+}
+/*===============END COMPANENTS=================*/

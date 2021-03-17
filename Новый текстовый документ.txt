@@ -1,0 +1,4 @@
+Ссылка на репозиторий:
+https://github.com/Olexiy-repin/fe-core-32-online/tree/module-01-lesson-02
+Ссылка на макет:
+https://www.figma.com/file/T7ToGv8pxPqmIbcVOM7ud5/Barbershop_v1-Copy?node-id=0%3A1
